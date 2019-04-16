@@ -1,5 +1,5 @@
 # AcademicProjectManagement
-Mdde with C#
+Made with C#
 ASP.NET
 By Shoaib Rahman
 Daffodil Int University
